@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:gravity="center"
+    android:orientation="vertical" >
+    <com.example.overturnanim.Trundler3d 
+        android:id="@+id/mTrundler"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+    </com.example.overturnanim.Trundler3d>
+</LinearLayout>
